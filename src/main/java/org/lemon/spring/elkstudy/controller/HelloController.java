@@ -14,4 +14,8 @@ public class HelloController {
         logger.info("测试" + name);
         return "hello:" + name;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
